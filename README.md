@@ -130,22 +130,5 @@ pip install -r requirements.txt
 - Improve recommendation accuracy
 - Deploy on Streamlit Cloud or Render
 
----
 
-## 👨‍💻 Author
 
-**Aditya Kannojiya**
-
-GitHub: https://github.com/Aditya-12-k
-
----
-
-## ⭐ If you like this project
-
-Please give this repository a ⭐ on GitHub.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
